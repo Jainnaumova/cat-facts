@@ -13,6 +13,7 @@
 ## App’s architecture
 * App renders Cat Facts using third Party API
 * Implemented responsive design
+* Implemented pagination
 
 ## Setup
 To use this site locally, you’ll need to take the following steps:
